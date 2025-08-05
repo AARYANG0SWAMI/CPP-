@@ -1,5 +1,5 @@
 /* Data Types are of two types 
-1 => Perimitive  >>> integer,character, Boolean Floating point Double float
+1 => Premitive  >>> integer,character, Boolean, Floating point, Double float
 2 => Non-Primitive       string Arrays
 */
 #include<iostream>

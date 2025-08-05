@@ -4,11 +4,11 @@ using namespace std;
 int main()
 {
     int a,b;
-    cout<<"Enter the value of a\n ";
+    cout<<"Enter the value of a:\n";
     cin>>a;
-    cout<<"Enter the value of b\n " ;
+    cout<<"Enter the value of b:\n" ;
     cin>>b;
-    cout<<"sum of a and b is\n "<<a+b<<endl;
-    cout<<"Diff of a and b is \n"<<a-b<<endl;
+    cout<<"Sum of a and b is = "<<a+b<<endl;
+    cout<<"Difference of a and b is = "<<a-b<<endl;
     return 0;
 }

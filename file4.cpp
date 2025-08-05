@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
-// Constants =>> These are variable that can not be change 
-// const keywiord is used to declare a constants
-// it must be initialized
+// Constants =>> These are variable that can not be change. 
+// const keyword is used to declare a constant.
+// it must be initialized.
 int main()
 {
-    const float PI=3.14;
-    cout<<PI;
-    return 0;
+         const float PI=22.0/7.0;
+         cout<<PI;
+         return 0;
 }
