@@ -14,7 +14,7 @@ int main()
  		if(i==mid || j==mid)
 		cout<<"* ";
 		else
-		cout<<" ";
+		cout<<"  ";
 		}
 		cout<<endl;
 	}}
