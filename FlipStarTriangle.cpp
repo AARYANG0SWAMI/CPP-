@@ -5,6 +5,13 @@ int main()
 	int n,i,j;
 	cout<<"Please enter the value of n : ";
 	cin>>n;
-	for(i=1;j<=n;i++){
-		int A=65;
-		for(j=n;j<=(
+	for(i=1;i<=n;i++){
+		for(j=n;j>=1;j--){
+		if(i>j)
+		cout<<"* ";
+		else
+		cout<<"  ";
+		}
+	cout<<endl;
+	}
+}
