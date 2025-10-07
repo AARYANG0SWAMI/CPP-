@@ -7,7 +7,7 @@ int main()
 	cin>>n;
 	nst=1;
 	nsp=n-1;
-	for(i=1;i<=1;i++){
+	for(i=1;i<=n;i++){
 		for(j=1;j<=nsp;j++){
 		cout<<" ";
 		nsp--;
